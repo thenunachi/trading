@@ -1,4 +1,4 @@
-# Robinhood — Paper Trading App
+# Trade — Paper Trading App
 
 A fully-featured stock trading simulator built with React and Vite. No real money, no API keys — everything runs locally with simulated live prices.
 
