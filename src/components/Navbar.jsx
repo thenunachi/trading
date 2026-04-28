@@ -41,7 +41,7 @@ export default function Navbar() {
     <aside className="sidebar">
       <div className="sidebar-logo">
         <TrendingUp size={20} strokeWidth={2.5} />
-        Robinhood
+        Trade
       </div>
 
       <nav className="sidebar-nav">

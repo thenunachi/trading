@@ -28,7 +28,7 @@ export default function Onboarding({ onComplete }) {
             <TrendingUp size={28} color="var(--green)" strokeWidth={2.5} />
           </div>
           <span style={{ fontSize: 28, fontWeight: 800, color: 'var(--text)', letterSpacing: '-0.5px' }}>
-            Robinhood
+            Trade
           </span>
         </div>
 
